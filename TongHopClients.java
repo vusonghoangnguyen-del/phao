@@ -1,4 +1,3 @@
-package UDP;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
@@ -16,7 +15,7 @@ import java.util.LinkedHashMap;
 import java.util.Locale;
 import java.util.Map;
 import java.util.StringJoiner;
-
+//lenh chay javac client3.java + java client3 
 /*
  * ============================================================================
  * FILE TỔNG HỢP BÀI TẬP UDP
